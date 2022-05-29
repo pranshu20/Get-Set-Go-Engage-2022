@@ -40,15 +40,19 @@ See the video demo here:
 
 ## Problem in Macbook
 
+#### Showing in code
 ![Showing in code](./screenshots/code_error.jpg)
 I have tried everything written on the internet about this issue for 2 days and found out that this command runs only on terminal in mac and is default error in open cv not able to show webcam on mac on webpage
 
+#### Showing on webpage
 ![on-webpage](./screenshots/cv2_error.jpg)
 
+#### Link on Stack-Overflow
 https://stackoverflow.com/questions/72380678/opencv-error-cv2-error-unknown-c-exception-from-opencv-code
 
 ## Architecture
 
+#### PHP with MySQL database
 ![PHP with mySQL](./screenshots/php.png)
 
 ## Screenshots
