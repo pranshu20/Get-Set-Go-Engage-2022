@@ -29,12 +29,6 @@ See the video demo here:
 - Backend Language: `PHP`
 - Backend Framework: `Django`
 
-## ER Diagram
-
-- User can create as many classes as they want. By default, whosoever creates the class is the teacher and the one who joins, is the student.
-- Teacher can create as many MCQ quizzes and file based assignments.
-- Students can make their individual submissions on MCQ/assignments.
-
 ## Application Setup Guidelines
 
 1. Clone the project
@@ -52,6 +46,10 @@ I have tried everything written on the internet about this issue for 2 days and 
 ![on-webpage](./screenshots/cv2_error.jpg)
 
 https://stackoverflow.com/questions/72380678/opencv-error-cv2-error-unknown-c-exception-from-opencv-code
+
+## Architecture
+
+![PHP with mySQL](./screenshots/php.png)
 
 ## Screenshots
 
