@@ -81,43 +81,33 @@ See the video demo here:
 
 ## Screenshots
 
-#### Features
+#### Home
 
-![Features](./screenshots/Features.png)
+![Home](./screenshots/Home.jpg)
 
-#### All classes
+#### Services
 
-![All-classes](./screenshots/AllClasses.png)
+![services](./screenshots/Services.jpg)
 
-#### Classroom Feed
+#### Booking Form
 
-![class-feed](./screenshots/ClassroomFeed.png)
+![form](./screenshots/Form.jpg)
 
-#### Video Calling
+#### Pdf
 
-![video-calling](./screenshots/JoinVideoCall.png)
+![pdf](./screenshots/Pdf.jpg)
 
-#### Classwork
+#### Verification Page
 
-![classwork](./screenshots/Classwork.png)
+![page](./screenshots/Verification Page.jpg)
 
-#### Take MCQ Quiz- For Student
+#### My SQL database
 
-![take-quiz](./screenshots/TakeQuiz.png)
+![sql-database](./screenshots/MySQL.jpg)
 
 #### Quiz Performance- For Student
 
 ![quiz-result](./screenshots/QuizResults.png)
-
-#### View/Grade a student's assignment submission- For Teacher
-
-![grade-sub](./screenshots/ViewStudentsAssignmentSub.png)
-
-#### View Assignment (Graded) - Student Screen
-
-![view-assignment-graded](./screenshots/ViewStudentGradedSub.png)
-
-View more pictures here: [./screenshots](./screenshots)
 
 ## Developer
 
