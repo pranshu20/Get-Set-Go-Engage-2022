@@ -43,7 +43,11 @@ See the video demo here:
    git clone https://github.com/pranshu20/Get-Set-Go-Engage-2022
    ```
 
-2. 
+
+## Problem in Macbook
+
+
+I have tried everything written on the internet about this issue for 2 days and found out that this command runs only on terminal in mac and is default error in open cv not able to show webcam on mac on webpage
 
 ## Screenshots
 
