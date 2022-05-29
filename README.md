@@ -40,9 +40,11 @@ See the video demo here:
 
 ## Problem in Macbook
 
+#### Dont try this on macbook unless you remove the below line of code
+
 #### Showing in code
 ![Showing in code](./screenshots/code_error.jpg)
-I have tried everything written on the internet about this issue for 2 days and found out that this command runs only on terminal in mac and is default error in open cv not able to show webcam on mac on webpage
+Removing above line will open the webcam but will not show it but the application will run fine. I have tried everything written on the internet about this issue for 2 days and found out that this command runs only on terminal in mac and is default error in open cv not able to show webcam on mac on webpage
 
 #### Showing on webpage
 ![on-webpage](./screenshots/cv2_error.jpg)
@@ -54,6 +56,12 @@ https://stackoverflow.com/questions/72380678/opencv-error-cv2-error-unknown-c-ex
 
 #### PHP with MySQL database
 ![PHP with mySQL](./screenshots/php.png)
+
+#### Django
+![Django](./screenshots/django.png)
+
+#### PHP
+![PHP](./screenshots/architecture.png)
 
 ## Screenshots
 
