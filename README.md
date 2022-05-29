@@ -65,7 +65,7 @@ See the video demo here:
 
 #### Verification Page
 
-![page](./screenshots/Verification page.jpg)
+![page](./screenshots/verify_page.jpg)
 
 #### My SQL database
 
