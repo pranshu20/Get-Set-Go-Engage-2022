@@ -2,9 +2,7 @@
 
 One stop application to book your flight ticket, Verify face and check-in at the airport by face recognition technology implemented using open-cv python which is safe and secured.
 
-Link to deployed app:
-
-See the video demo here:
+See the video demo here: 
 
 #### GetSetGo Features:
 
@@ -36,6 +34,33 @@ See the video demo here:
    ```
    git clone https://github.com/pranshu20/Get-Set-Go-Engage-2022
    ```
+
+2. Install xampp
+
+3. Install opencv-python , dlib, face_recognition
+
+   ```
+   pip3 install opencv-python
+   pip3 install cmake
+   pip3 install dlib
+   pip3 install face_recognition
+   ```
+4. Place the code of my github repository in xampp/ htdocs/ webapp/ 
+  
+5. Go to py_django_web(a folder in my code) and copy the path of manage.py
+
+6. Paste it in terminal with cd
+   ```
+   cd /Applications/XAMPP/xamppfiles/htdocs/webapp/py_django_web
+   ```
+7. Type 
+   ```
+   python3 manage.py runserver
+   ```
+8. You are good to go :)
+
+(if recognize_face button not working then create a virtual environment with django)
+
 
 
 ## Problem in Macbook
