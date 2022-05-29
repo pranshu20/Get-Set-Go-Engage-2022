@@ -29,10 +29,6 @@ See the video demo here:
 - Backend Language: `PHP`
 - Backend Framework: `Django`
 
-#### CI/CD
-
-- Heroku
-
 ## ER Diagram
 
 - User can create as many classes as they want. By default, whosoever creates the class is the teacher and the one who joins, is the student.
@@ -47,37 +43,7 @@ See the video demo here:
    git clone https://github.com/pranshu20/Get-Set-Go-Engage-2022
    ```
 
-2. Create a `.env` file in `/backend` folder, and setup [Environment Variables](environment-variables).
-
-   ```
-   MONGO_URI          : MongoDB connection string
-   JWT_SECRET_KEY     : Secret key for signing JWT
-   GOOGLE_CLIENT_ID   : Google client ID for Google OAuth
-   AWS_BUCKET_NAME    : AWS S3 Bucket Name
-   AWS_BUCKET_REGION  : AWS S3 Region, e.g. us-east-1
-   AWS_ACCESS_KEY     : AWS S3 access key
-   AWS_SECRET_KEY     : AWS S3 secret key
-
-   ```
-
-3. Create a `.env` file in `/client` folder, and setup [Environment Variables](environment-variables).
-
-   ```
-   REACT_APP_GOOGLE_CLIENT_ID   : Google client ID for Google OAuth
-   ```
-
-4. Run these commands then -
-   ```
-   npm install
-   cd client
-   npm install
-   ```
-5. To start the client and the server
-   ```
-   npm run server
-   cd client
-   npm start
-   ```
+2. 
 
 ## Screenshots
 
@@ -104,10 +70,6 @@ See the video demo here:
 #### My SQL database
 
 ![sql-database](./screenshots/MySQL.jpg)
-
-#### Quiz Performance- For Student
-
-![quiz-result](./screenshots/QuizResults.png)
 
 ## Developer
 
