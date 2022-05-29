@@ -95,11 +95,11 @@ See the video demo here:
 
 #### Pdf
 
-![pdf](./screenshots/Pdf.jpg)
+![pdf](./screenshots/PDF.jpg)
 
 #### Verification Page
 
-![page](./screenshots/Verification Page.jpg)
+![page](./screenshots/Verification page.jpg)
 
 #### My SQL database
 
