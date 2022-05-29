@@ -121,5 +121,4 @@ View more pictures here: [./screenshots](./screenshots)
 
 ## Developer
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/pranshu-goyal-390542198/)
+https://www.linkedin.com/in/pranshu-goyal-390542198/
